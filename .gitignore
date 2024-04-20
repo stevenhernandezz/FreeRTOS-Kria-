@@ -1,0 +1,14 @@
+**/build
+**/build/*
+build/*
+.Xil
+*.jou
+vivado_*
+*.log
+**/software/*
+!**/software/part1
+!**/software/part2
+!**/software/part3
+!**/software/part4
+!**/software/.gitignore
+*.xsa
