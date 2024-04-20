@@ -1,0 +1,18 @@
+{
+  "name": "freertos_queue",
+  "type": "HOST",
+  "platform": "C:\\sp24-ece520-freertos-kria-stevenhernandezz\\software\\kr260_platform\\export\\kr260_platform\\kr260_platform.xpfm",
+  "domain": "freertos_psu_cortexa53_0",
+  "cpuInstance": "psu_cortexa53_0",
+  "cpuType": "cortex-a53",
+  "os": "freertos",
+  "configuration": {
+    "componentType": "HOST",
+    "hostToolchainConfigurations": []
+  },
+  "domainRealName": "freertos_psu_cortexa53_0",
+  "applicationFlow": "EMBEDDED",
+  "previousBuildStatusMap": {
+    "hw": "SUCCESS"
+  }
+}
